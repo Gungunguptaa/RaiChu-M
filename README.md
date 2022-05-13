@@ -71,7 +71,7 @@ Get pyrogram (p)  `SESSION` from here:
 The easy way to host this bot
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/gungunguptaa/RaiChu-MusicV"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/gungunguptaa/RaiChu-Music"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 ## VPS Deployment
